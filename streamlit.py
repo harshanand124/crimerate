@@ -17,7 +17,7 @@ st.write('numpy and pandas')
 st.write('streamlit')
 st.divider()
 
-st.write("Developed by :blue[RIYA CHAND]")
+st.write("Developed by :blue[HARSH ANAND]")
 st.write("Graphic Era Deemed To Be University")
 st.write("B.Tech CSE")
 st.write("University Roll Number - 2021237")
